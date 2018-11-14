@@ -1,1 +1,0 @@
-# Get-Guest-VM-OperationReady-State-and-VMware-Tools-Running
